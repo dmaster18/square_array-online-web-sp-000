@@ -7,4 +7,4 @@ def square_array(array)
   puts "This is the squared array: #{new_array}"
 end
 
-square_array([1, 2, 3, 4, 5])
+square_array(array)
