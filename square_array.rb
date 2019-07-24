@@ -3,7 +3,7 @@ def square_array(array)
   array.each do |array_element|
     squared_element = array_element*array_element
     new_array.pop(squared_element)
-      puts "This is the squared array: #{new_array}"
+    puts "This is the squared array: #{new_array}"
   end
 
 end
